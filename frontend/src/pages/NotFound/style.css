@@ -1,0 +1,18 @@
+.notfound {
+  margin: 15px 0 0 0px;
+  text-align: center;
+}
+
+.notfound-text {
+  margin-top: 10px;
+}
+
+.notfound-text:hover {
+  color: #1876f2;
+}
+
+.image_notfound {
+  margin-top: 10px;
+  height: auto;
+  max-width: 100%;
+}
