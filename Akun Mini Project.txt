@@ -1,0 +1,19 @@
+== Note ==
+// 2 Akun ini menggunakan belum menggunakan validasi password spesial karakter.
+
+Pramadona Haekal 
+- Email : yicoj55973@dmosoft.com
+- Pw : 123456789
+
+Widodo Putra 
+- Email : voxax75730@svcache.com
+- Pw : 12345678
+
+
+// Akun yang sudah menggunakan validasi password spesial karakter.
+
+Rian Afrianto 
+- Email : rianafrianto17@gmail.com
+- Pw : 123456789Ar@
+
+== Note ==
